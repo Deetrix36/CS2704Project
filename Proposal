@@ -1,3 +1,7 @@
-My hypothesis for my project is that The environmental sustainability of urban areas is intricately linked to mobility patterns. By analyzing urban mobility data that encompasses public transportation usage, traffic congestion metrics, and bike-sharing patterns, we can see how these modes of transportation affect the ecological impact of a city. I am going to get my data from the government of Canada's website for the air pollution effects in different provinces as well as the data portal for cities to get the transportation data.
+My project will explore the intricate connection between urban mobility patterns and environmental sustainability. The primary hypothesis is that analysis of urban mobility 
+data can show correlations between sustainable practices and key environmental indicators. The primary environmental indicator I will use is the air quality and amount of
+emissions a city produces. Key variables for the data include types of transportation and proximity to public transportation, with environmental indicators such as air 
+quality and carbon emissions as dependent variables. 
 
-I expect that the more public transportation options are available the more they will be used and therefore the amount of pollution created by cars will be decreased. The amount will vary with the modes of transportation, with vehicles like buses still producing some pollution compared to bike-sharing programs.
+I expect that the data will show that there is a correlation between cities that have better access to public transportation and their amount of emissions. I will have to 
+account for factors such as population and city density when it comes to a city's emissions since they will undoubtedly have a correlation.
